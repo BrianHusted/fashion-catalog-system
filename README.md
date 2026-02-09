@@ -63,7 +63,7 @@ This framing reflects a collaborative effort, with responsibilities shared acros
 ---
 
 ## Project Structure
-
+```
 fashion-catalog-system/
 ├── fastApiProject/
 │ ├── Admin_Main.py
@@ -76,7 +76,7 @@ fashion-catalog-system/
 ├── setup.bat
 ├── setup.sh
 └── README.md
-
+```
 
 ---
 
