@@ -37,7 +37,7 @@ This framing reflects a collaborative effort, with responsibilities shared acros
 - Reading and extending existing backend code to integrate new UI functionality
 - Managing scope, responsibilities, and integration challenges in a collaborative project
 
---
+---
 
 ## Tech Stack
 
